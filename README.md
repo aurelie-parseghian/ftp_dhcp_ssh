@@ -1,7 +1,10 @@
 Nous avons commencé par installer les deux machines debian sans interface, sur l’une nous avons activer le SSH durant l’installation car il nous l’a été demandé.
+
+<img src="/0.png" alt="Capture d'écran"/>
+
 Ensuite nous avons mis à jour nos machines avec à l’aide des commandes :
 ```
-apt update et apt upgrade.
+apt update et apt upgrade
 ```
 
 Pour la configuration du serveur DHCP, nous avons commencé par l’installer à l’aide de la commande :
@@ -15,4 +18,4 @@ apt install sudo
 
 Une fois tout cela fait, nous avons configuré le serveur DHCP pour lui attribuer des adresses de classe B aux machines :
 
-<img src="/;okop.png" alt="Capture d'écran"/>
+<img src="/1.png" alt="Capture d'écran"/>
