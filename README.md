@@ -15,4 +15,4 @@ apt install sudo
 
 Une fois tout cela fait, nous avons configuré le serveur DHCP pour lui attribuer des adresses de classe B aux machines :
 
-<img src="/" alt="Capture d'écran"/>
+<img src="/;okop.png" alt="Capture d'écran"/>
